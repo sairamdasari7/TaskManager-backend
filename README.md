@@ -1,4 +1,4 @@
-# Shanture Task Manager - Backend
+# Task Manager - Backend
 
 This is the backend for the Shanture Task Manager application. It provides an API to manage tasks, including adding new tasks, marking tasks as completed, and deleting tasks. The backend is built using Node.js and Express, with MongoDB as the database.
 
